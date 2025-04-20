@@ -23,7 +23,7 @@ npm install rsbuild-react-generate-pages -D
 
 ## 🦄 Usage
 
-### Configuration Vite
+### Configuration `rsbuild.config.ts`
 
 ```ts
 import { defineConfig } from '@rsbuild/core';

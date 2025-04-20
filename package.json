@@ -1,6 +1,6 @@
 {
   "name": "rsbuild-rsbuild-react-generate-pages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@9.11.0",
   "description": "A Rsbuild plugin to generate pages for React",
   "type": "module",
